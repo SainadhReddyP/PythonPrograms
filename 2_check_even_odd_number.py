@@ -1,6 +1,7 @@
 num = int(input("Enter a number: "))
 
 print(num%2)
+
 if num%2 == 0:
     print(f"{num} is a even number.")
 else:
